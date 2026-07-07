@@ -1,47 +1,76 @@
-# Hi, I'm Humayra 👋
-Welcome to my digital workplace. Explore my repos and make yourself at home :)
+<h1 align="center">Hi, I'm Humayra 👋</h1>
+
+<p align="center">
+  Computing & Software Systems student at the University of Melbourne, building things that live somewhere between code, curiosity, and the occasional pixel-art space alien.
+</p>
+
+<p align="center">
+  <a href="https://personal-portfolio-website-pddz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/humayra-tasnim-625489283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tasnimhumayra447@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasnimhumayra447&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tasnimhumayra447&theme=dark)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=tasnimhumayra447&color=blue)
+### 🎓 About Me
+
+I'm currently pursuing a **BSc in Computing and Software Systems** at the **University of Melbourne** (Expected Graduation: Dec 2027), with a WAM of **92.4** and a place on the **Dean's Honours List 2026 (Top 3%)**. I'm on the **Airwallex Excellence in Technology Scholarship** and the **Melbourne International Undergraduate Scholarship**.
+
+I like problems that force me to think in systems — whether that's a database schema, a game loop, or a satellite constellation. Outside of coursework, I spend my time building small, complete projects rather than half-finished big ones; I'd rather ship a Minesweeper clone that actually works than leave a "someday" app half-built.
+
+- 📚 Currently studying: Foundations of Algorithms, Foundations of Computing, Database Systems, Calculus, Linear Algebra
+- 🌱 Always the person taking notes *and* asking the "wait, why does it work that way?" question
 
 ---
 
-## About Me
+### 🛰️ Currently Exploring
 
-* 🎓 BSc in Computing and Software Systems at the University of Melbourne (Expected Graduation: Dec 2027)
-* 📊 WAM: 92.3 | Dean's Honours List 2026 (Top 3%)
-* 🏆 Airwallex Excellence in Technology Scholarship | Melbourne International Undergraduate Scholarship
-* 📚 Currently studying: Elements of Data Processing, Data Analysis, Modelling the Real World
+I'm working on a research project into **LEO (Low Earth Orbit) satellite emulation** — simulating satellite networks to explore how we can bring more reliable internet to remote and underserved parts of the world. It's the kind of problem I love: equal parts networking, systems thinking, and "how do you even test something that's supposed to be in space?"
 
 ---
 
-## Currently Exploring
-Right now, I am deeply curious about the future of global connectivity, specifically digging into LEO (Low Earth Orbit) Satellite emulation. I love the challenge of figuring out how we can simulate networks in space to bring more reliable internet to remote places on Earth. I'm pursuing a research project on this.
+### 💻 Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| **Shadow Aliens 2D Space Shooter** | Java | A 2D space shooter with real-time movement, cooldown-based shooting, frame-based enemy spawning, and collision detection — plus dev-mode controls like timescale adjustment and invincibility toggles. |
+| **[Personal Portfolio Website](https://personal-portfolio-website-pddz.vercel.app/)** | React, HTML, CSS, JS | A responsive portfolio built with modular React components and dynamic, multi-section content rendering. |
+| **Minescaper** | HTML, CSS, JS | A Minesweeper clone with a configurable grid and mine count, WASD controls, and a recursive flood-fill reveal algorithm. |
 
 ---
 
-## Projects
+### 🧰 Skills
 
-* 🚀 **Shadow Aliens 2D Space Shooter** (Java) — A 2D space shooting game with real-time player movement, cooldown-based shooting mechanics, frame-based enemy spawning, and bounding box collision detection.
-* 💼 **Personal Portfolio Website** (React, HTML, CSS, JavaScript) — A responsive portfolio built with modular React components, multi-section navigation, and dynamic content rendering.
-* 💣 **Minescaper** (HTML, CSS, JavaScript) — A Minesweeper-style game with a configurable grid, mine count, WASD controls, and a flood-fill algorithm for revealing zero-cells.
+**Languages:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
----
+**Web:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## Skills
-
-* **Languages:** C, C++, Python, Java
-* **Web:** HTML, CSS, JavaScript, React
-* **Databases:** MySQL
-* **Tools:** Git, GitHub
+**Databases & Tools:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Connect
-Portfolio: https://personal-portfolio-website-pddz.vercel.app/
-LinkedIn: https://linkedin.com/in/humayra-tasnim-625489283
-Email: tasnimhumayra447@gmail.com
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasnimhumayra447&show_icons=true&theme=dark&hide_border=true" alt="Humayra's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tasnimhumayra447&theme=dark&hide_border=true" alt="Humayra's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tasnimhumayra447&color=blue" alt="Profile views" />
+</p>
+
+> 💡 If the stats cards above don't load, it's usually a temporary rate-limit issue on the shared demo server — refreshing the page or waiting a few minutes should fix it.
+
+---
+
+### 📬 Let's Connect
+
+I'm always happy to talk about software, systems, satellites, or the merits of a well-timed flood-fill algorithm. Feel free to reach out!
+
+- 🌐 Portfolio: [personal-portfolio-website-pddz.vercel.app](https://personal-portfolio-website-pddz.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/humayra-tasnim-625489283](https://linkedin.com/in/humayra-tasnim-625489283)
+- 📧 Email: [tasnimhumayra447@gmail.com](mailto:tasnimhumayra447@gmail.com)
+
+<p align="center"><i>Thanks for stopping by — go check out the repos! ⭐</i></p>
