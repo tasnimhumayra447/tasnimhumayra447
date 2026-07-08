@@ -19,7 +19,7 @@ CS student at the University of Melbourne. Currently working on satellite resear
 * **University of Melbourne** | BSc in Computing and Software Systems (Expected Dec 2027)
 * **Academic Standing:** 92.3 WAM | Dean's Honours List 2025 (Top 3%)
 * **Scholarships:** Airwallex Excellence in Technology Scholarship | Melbourne International Undergraduate Scholarship
-* **Key Coursework:** Foundations of Algorithms, Foundations of Computing, Database Systems, Calculus, Linear Algebra
+* **Key Coursework:** Design of Algorithms, Data Structures, OOP, Database Systems, Calculus, Linear Algebra, Probability for Statistics
 
 ---
 
