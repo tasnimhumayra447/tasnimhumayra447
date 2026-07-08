@@ -10,24 +10,16 @@
 
 ### 💻 About Me
 
-* **I finish what I start:** I’d rather ship a simple, fully functional Minesweeper clone that you can play right now than leave an overly ambitious project sitting abandoned in my repositories. 
-* **I run toward the hard math and systems:** Instead of sticking to basic templates, I enjoy diving into complex puzzles that require tracking moving parts and strict logic.
-* **I ask the questions others avoid:** I am consistently the person in the room raising my hand to ask, "Wait, *why* does it work that way?" I'm comfortable admitting when I'm confused because I refuse to stop digging until I understand the underlying architecture.
+CS student at the University of Melbourne. Currently working on networking research, web development, and personal projects.
 
 ---
 
-### 🎓 Education & Credentials
+### 🎓 Education
 
 * **University of Melbourne** | BSc in Computing and Software Systems (Expected Dec 2027)
 * **Academic Standing:** 92.3 WAM | Dean's Honours List 2025 (Top 3%)
 * **Scholarships:** Airwallex Excellence in Technology Scholarship | Melbourne International Undergraduate Scholarship
 * **Key Coursework:** Foundations of Algorithms, Foundations of Computing, Database Systems, Calculus, Linear Algebra
-
----
-
-### 🛰️ Current Focus
-
-I'm currently working on a research project involving **LEO (Low Earth Orbit) satellite emulation**. The goal is to simulate space networks to find practical ways to bring reliable internet to remote and underserved areas. Outside of standard software, I'm currently looking up (literally) to see how we can orbit closer to global connectivity solutions. *(Hehe, see what I did there?)*
 
 ---
 
