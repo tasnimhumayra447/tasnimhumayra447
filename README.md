@@ -10,7 +10,7 @@
 
 ### 💻 About Me
 
-CS student at the University of Melbourne. Currently working on networking research, web development, and personal projects.
+CS student at the University of Melbourne. Currently working on satellite research, web development, and personal projects.
 
 ---
 
