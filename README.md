@@ -29,7 +29,7 @@ CS student at the University of Melbourne. Currently working on satellite resear
 |---|---|---|
 | **[Shadow Aliens 2D Space Shooter](https://youtu.be/sFo7vu8Grx4)** | Java | A 2D space shooter with real-time movement, cooldown-based shooting, frame-based enemy spawning, and collision detection. Includes dev-mode features like timescale adjustments and invincibility toggles. |
 | **[Personal Portfolio Website](https://personal-portfolio-website-pddz.vercel.app/)** | React, HTML, CSS, JS | A clean, responsive portfolio built with modular React components to showcase my work and experience. |
-| **Minescaper** | HTML, CSS, JS | A robust Minesweeper clone with a configurable grid, mine count, WASD controls, and a recursive flood-fill algorithm for clearing tiles. |
+| **[Minescaper](https://tasnimhumayra447.github.io/Minescaper/index.html)** | HTML, CSS, JS | A robust Minesweeper clone with a configurable grid, mine count, WASD controls, and a recursive flood-fill algorithm for clearing tiles. |
 
 ---
 
@@ -59,7 +59,7 @@ CS student at the University of Melbourne. Currently working on satellite resear
 
 ### 📬 Let's Connect
 
-If you want to talk about software architecture, space networks, or why low-level code is actually fun, feel free to reach out.
+If you want to talk about system design, space networks, or anything tech, feel free to reach out.
 
 * **Portfolio:** [personal-portfolio-website-pddz.vercel.app](https://personal-portfolio-website-pddz.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/humayra-tasnim-625489283](https://linkedin.com/in/humayra-tasnim-625489283)
