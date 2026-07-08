@@ -27,7 +27,7 @@ CS student at the University of Melbourne. Currently working on satellite resear
 
 | Project | Stack | What it does |
 |---|---|---|
-| **Shadow Aliens 2D Space Shooter** | Java | A 2D space shooter with real-time movement, cooldown-based shooting, frame-based enemy spawning, and collision detection. Includes dev-mode features like timescale adjustments and invincibility toggles. |
+| **[Shadow Aliens 2D Space Shooter](https://youtu.be/sFo7vu8Grx4)** | Java | A 2D space shooter with real-time movement, cooldown-based shooting, frame-based enemy spawning, and collision detection. Includes dev-mode features like timescale adjustments and invincibility toggles. |
 | **[Personal Portfolio Website](https://personal-portfolio-website-pddz.vercel.app/)** | React, HTML, CSS, JS | A clean, responsive portfolio built with modular React components to showcase my work and experience. |
 | **Minescaper** | HTML, CSS, JS | A robust Minesweeper clone with a configurable grid, mine count, WASD controls, and a recursive flood-fill algorithm for clearing tiles. |
 
